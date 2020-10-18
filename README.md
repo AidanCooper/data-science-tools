@@ -6,7 +6,7 @@ Experiments and code samples for various tools related to data science workflows
 ## Bayesian
 | Tool | Experiments | Description |
 | ----- | -------- | --------------------- |
-| [skpot.BayesSearchCV](https://scikit-optimize.github.io/stable/modules/generated/skopt.BayesSearchCV.html) | [Example](notebooks/BayesSearchCV.ipynb) | - Bayesian optimization over hyper parameters.<br>- A drop-in replacement for scikit-learn GridSearchCV and RandomizedSearchCV.<br>- Part of [scikit-optimize](https://scikit-optimize.github.io/stable/index.html) ("skopt").|
+| [skopt.BayesSearchCV](https://scikit-optimize.github.io/stable/modules/generated/skopt.BayesSearchCV.html) | [Example](notebooks/BayesSearchCV.ipynb) | - Bayesian optimization over hyper parameters.<br>- A drop-in replacement for scikit-learn's GridSearchCV and RandomizedSearchCV.<br>- Part of [scikit-optimize](https://scikit-optimize.github.io/stable/index.html) ("skopt").|
 
 ## Interpretable Machine Learning
 | Tool | Experiments | Description |
