@@ -6,4 +6,4 @@ Experiments and code samples for various tools related to data science workflows
 
 | Tool | Experiments | Description |
 | ----- | -------- | --------------------- |
-| [RuleFit](https://github.com/christophM/rulefit) | [Example](notebooks/RuleFit.ipynb) | - A rule-based prediction algorithm.<br>- Supposedly, meets/exceeds the performance of Random Forest models, but retains the explainability of decision trees.|
+| [RuleFit](https://github.com/christophM/rulefit) | [Example](notebooks/RuleFit.ipynb) | - A rules-based prediction algorithm.<br>- Supposedly, meets/exceeds the performance of Random Forest models, but retains the explainability of decision trees.|
