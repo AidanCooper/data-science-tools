@@ -23,4 +23,4 @@ Experiments and code samples for various tools related to data science workflows
 ## Tools
 | Tool | Experiments | Description |
 | ----- | -------- | --------------------- |
-| [nbstripout](https://github.com/kynan/nbstripout) |  | - Clean diffs whilst working with Jupyter notebooks.<br>- Personal preferred configuration after installing: edit the first line of `.\.git\info\attributes` to:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"*.ipynb filter=nbstripout --keep-count --keep-output"|
+| [nbstripout](https://github.com/kynan/nbstripout) |  | - Clean diffs whilst working with Jupyter notebooks.<br>- Personal preferred configuration after installing: edit the first line of `./.git/info/attributes` to:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"*.ipynb filter=nbstripout --keep-count --keep-output"|
