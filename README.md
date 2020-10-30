@@ -23,7 +23,7 @@ Experiments and code samples for various tools related to data science workflows
 ## Statistics
 | Tool | Experiments | Description |
 | ----- | -------- | --------------------- |
-| [Frequentist Inference](https://en.wikipedia.org/wiki/Frequentist_inference.ipynb) | [Example](notebooks/frequentist_inference.ipynb) | - Simple examples of Confidence Intervals, Hypothesis Testing, and P-values. |
+| [Frequentist Inference](https://en.wikipedia.org/wiki/Frequentist_inference.ipynb) | - [Example](notebooks/frequentist_inference.ipynb) | - Simple examples of Confidence Intervals, Hypothesis Testing, and P-values. |
 
 ## Tools
 | Tool | Experiments | Description |
