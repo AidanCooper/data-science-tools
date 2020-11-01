@@ -23,7 +23,8 @@ Experiments and code samples for various tools related to data science workflows
 ## Statistics
 | Tool | Experiments | Description |
 | ----- | -------- | --------------------- |
-| [Frequentist Inference](https://en.wikipedia.org/wiki/Frequentist_inference.ipynb) | - [Example](notebooks/frequentist_inference.ipynb) | - Simple examples of Confidence Intervals, Hypothesis Testing, and P-values. |
+| [Frequentist Inference](https://en.wikipedia.org/wiki/Frequentist_inference) | - [Example](notebooks/frequentist_inference.ipynb) | - Simple examples of Confidence Intervals, Hypothesis Testing, and P-values. |
+| [Linear Regression](https://www.statsmodels.org/stable/generated/statsmodels.formula.api.ols.html) | - [Example](notebooks/linear_regression.ipynb) | - Simple Linear Regression and Multivariate Linear Regression using `statsmodels.formula.api.ols`. |
 
 ## Tools
 | Tool | Experiments | Description |
